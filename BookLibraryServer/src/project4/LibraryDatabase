@@ -1,0 +1,12 @@
+B:index(1):title(Moby Dick):genre(Fantasy):price(3.99):index of author(1):
+B:index(2):title(The Great Gatsby):genre(Drama):price(12.00):index of author(2):
+B:index(3):title(Dracula):genre(Horror):price(6.50):index of author(3):
+B:index(3):title(Dracula):genre(Horror):price(6.50):index of author(3):
+A:index(2):name(F. Scott Fitzgerald):street address(17 Rosemary Ave.):city(New York):state(NY):zip(24753):phone((822)725-1231):
+A:index(3):name(Braham Stoker):street address(7 Count St.):city(Transelvania):state(MI):zip(66666):phone((859)347-1111):
+A:index(4):name(Suzanne Collins):street address(16 Katniss Boulevard):city(Louisville):state(KY):zip(41008):phone((555)187-8787):
+B:index(4):title(Hunger Games):genre(Fantasy):price(30.00):index of author(4):
+A:index(1):name(Herman Melville):street address(15 RIP Boulevard):city(Underground):state(Dead):zip(12345):phone((909)855-9666):
+B:index(4):title(Hunger Games):genre(Fantasy):price(30.00):index of author(4):
+B:index(4):title(Hunger Games):genre(Fantasy):price(30.00):index of author(4):
+B:index(4):title(Hunger Games):genre(Fantasy):price(30.00):index of author(4):
